@@ -1,4 +1,4 @@
-const APIKEY = "b24fd8e562a33a541ee63e704978a615";
+const APIKEY = "API KEY";
 const APIURL = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 const cityname = document.querySelector(".city");
 const Tempature = document.querySelector(".temp");
